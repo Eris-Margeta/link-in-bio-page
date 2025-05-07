@@ -1,6 +1,7 @@
 # Main Link in bio page
 
 Link in bio page for teams and projects
+Originally made for the midnight project https://midnightapes.com/
 
 Deployed on:
 https://midnight-linkinbio.netlify.app/
